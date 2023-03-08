@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Boise, ID</h3>
+<h3 align="center">A passionate developer from Boise, ID</h3>
 
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/haven-fricke/">LinkedIn</a></h3>
 <p align="left">
